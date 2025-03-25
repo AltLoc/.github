@@ -12,7 +12,8 @@ Features:
 - **Creating categories and tasks**, which can be completed daily.  
 - **Gamification**: earn in-game currency and experience points to level up.  
 - **Daily Comment**: write short notes about your day.  
-- **Minimalist admin panel** with a list of all users.  
+- **Minimalist admin panel** with a list of all users.
+[Soure code](https://github.com/progof/altloc) 
 
 ### 2️⃣ Second Version (**In Development**)  
 A **new concept** based on three key entities:  
